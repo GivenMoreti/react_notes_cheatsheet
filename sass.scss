@@ -1,0 +1,10 @@
+//sass is a css preprocessor
+// npm i sass
+//Sass files are executed on the server and sends CSS to the browser.
+//import './my-sass.scss';
+
+$myColor:red;
+
+h1{
+    color:$myColor;
+}
